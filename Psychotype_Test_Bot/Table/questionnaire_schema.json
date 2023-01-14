@@ -1,0 +1,2570 @@
+[
+    {
+        "position": 1,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Обычно ты:"
+            },
+            {
+                "lang": "en",
+                "value": "Usually you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "проявляешь общительность"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "communicative"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "ведешь себя довольно сдержанно и спокойны"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "quite restrained and calm"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 2,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Ты чаще позволяешь:"
+            },
+            {
+                "lang": "en",
+                "value": "You more often allow:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "чувствам управлять твоим разумом"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "feelings control your mind"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "разуму управлять твоими чувствами"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "the mind to control your feelings"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 3,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Когда ты решаешь поехать куда-либо на один день, ты обычно:"
+            },
+            {
+                "lang": "en",
+                "value": "When you decide to go somewhere for one day, you usually:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "планируешь, что и когда будешь делать"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "plan what and when you will do"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "просто отправляешься в путь"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "just hit the road"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 4,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Находясь в компании ты обычно:"
+            },
+            {
+                "lang": "en",
+                "value": "Being in a company you usually:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "присоединяешься к общему разговору"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "join the conversation"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "беседуешь с каждым отдельно"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "talk with each separately"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 5,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Тебя скорее можно назвать:"
+            },
+            {
+                "lang": "en",
+                "value": "You can most likely be called:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "человеком практичным"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "practical person"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "выдумщиком, романтиком"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "fictional, romantic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 6,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Тебе больше нравятся люди, которые:"
+            },
+            {
+                "lang": "en",
+                "value": "You like people who:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "следуют общепринятым нормам и не привлекают к себе внимания"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "follow generally accepted standards and do not attract attention"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "настолько оригинальны, что им все равно, обращают на них внимание или нет"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "so original that they don't care if they pay attention to them or not"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 7,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Тебе бы хотелось иметь среди своих друзей человека, который:"
+            },
+            {
+                "lang": "en",
+                "value": "Would you rather have among your friends a person who:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "всегда полон новых идей"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "always full of new ideas"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "трезво и реалистично смотрит на мир"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "looks at the world soberly and realistically"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 8,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Принимая важное решение ты, вероятно, будешь:"
+            },
+            {
+                "lang": "en",
+                "value": "When making an important decision, you are likely to:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "доверять своим чувствам в выборе наилучшего решения"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "trust your feelings in choosing the best solution"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "доверять своей логике"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "trust your logic"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 9,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Обыкновенно ты:"
+            },
+            {
+                "lang": "en",
+                "value": "Usually you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "можешь свободно разговаривать практически с любым человеком в течение любого времени"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "can talk freely with almost any person at any time"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "не всегда находишь, что сказать незнакомому человеку"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "don't always find what to say to a stranger"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 10,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Когда ты читаешь для своего удовольствия, тебе нравится:"
+            },
+            {
+                "lang": "en",
+                "value": "When you read for your pleasure, you like:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "необычная, оригинальная манера изложения"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "unusual, original manner of presentation"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "когда писатели четко выражают свои мысли"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "when writers express their thoughts clearly"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 11,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Люди могут определить область твоих интересов:"
+            },
+            {
+                "lang": "en",
+                "value": "People can determine your area of interest:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "при первом знакомстве с тобой"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "when they first meet you"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "лишь тогда, когда узнают тебя поближе"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "only when they get to know you better"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 12,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Когда ты делаешь то же самое, что и многие другие, ты предпочитаешь:"
+            },
+            {
+                "lang": "en",
+                "value": "When you do the same as many others, you prefer:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "делать это общепринятым способом"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "do it in a common way"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "изобрести свой способ"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "invent your own way"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 13,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «привязанность - рассудочность» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “attachment - rationality” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "привязанность"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "“attachment"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "рассудочность"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "rationality”"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 14,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «факты - идеи» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “facts - ideas” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "факты"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "facts"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "идеи"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "idead"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 15,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «убедительный - трогательный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the pair “convincing - touching” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "убедительный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "convincing"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "трогательный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "touching"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 16,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «предписанный - незапланированный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the pair “prescribed - unplanned” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "предписанный "
+                    },
+                    {
+                        "lang": "en",
+                        "value": "prescribed"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "незапланированный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "unplanned"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 17,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «теория - факт» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “theory - fact” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "теория"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "theory"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "факт"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "fact"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 18,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «спокойный - оживленный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “calm - lively” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "спокойный "
+                    },
+                    {
+                        "lang": "en",
+                        "value": "calm"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "оживленный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "lively"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 19,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «говорить - писать» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “say - write” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "говорить"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "say"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "писать"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "write"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 20,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «мечтательный - практичный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “dreamy - practical” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "мечтательный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "dreamy"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "практичный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "practical"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 21,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «порыв - решение» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “impulse - decision” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "порыв"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "impulse"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "решение"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "decision"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 22,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «производить - творить» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the pair “produce - create” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "производить"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "produce"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "творить"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "create"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 23,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «благоразумный - очаровательный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the pair “prudent - charming” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "благоразумный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "prudent"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "очаровательный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "charming"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 24,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «решительный - преданный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the pair “decisive - faithful” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "решительный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "decisive"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "преданный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "faithful"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 25,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «изменяющийся - постоянный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “changing - constant” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "изменяющийся"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "changing"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "постоянный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "constant"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 26,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Ты считаешь себя:"
+            },
+            {
+                "lang": "en",
+                "value": "You consider yourself:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "более увлекающимся человеком, чем другие"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "more addicted person than others"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "менее увлекающимся"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "less addicted"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 27,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «конкретный - абстрактный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “concrete - abstract” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "конкретный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "concrete"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "абстрактный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "abstract"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 28,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «стремительный - тщательный» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “swift - thorough” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "стремительный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "swift"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "тщательный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "thorough"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 29,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «мягкий - твердый» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “soft - hard” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "мягкий"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "soft"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "твердый"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "hard"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 30,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Когда что-либо новое входит в моду, ты обычно:"
+            },
+            {
+                "lang": "en",
+                "value": "When something new comes into fashion, you usually:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "одним из первых испробуешь это"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "one of the first to try it"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "мало этим интересуешься"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "little interest in it"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 31,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «фундамент - шпиль» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “foundation - spire” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "фундамент"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "foundation"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "шпиль"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "spire"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 32,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «прощать - терпеть» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “forgive - endure” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "прощать"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "forgive"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "терпеть"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "endure"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 33,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Ты считаешь, что соблюдение распорядка дня:"
+            },
+            {
+                "lang": "en",
+                "value": "Do you think that following the daily routine:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "помогает спокойно работать"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "helps to work calmly"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "ограничивает Вашу свободу"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "limits your freedom"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 34,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «интуиция - опыт» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “intuition - experience” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "интуиция"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "intuition"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "опыт"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "experience"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 35,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «кто - что» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the “who - what” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "кто"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "who"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "что"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "what"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 36,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Ты считаешь, что твои близкие знают о твоих чувствах/мыслях:"
+            },
+            {
+                "lang": "en",
+                "value": "Do you think that your loved ones know about your feelings and thoughts:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "в большинстве случаев"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "in most cases"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "только тогда, когда Вы сообщите им об этом"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "only when you let them know"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 37,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «похвала - критика» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “praise - criticism” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "похвала"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "praise"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "критика"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "criticism"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 38,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Тебе труднее приспособиться:"
+            },
+            {
+                "lang": "en",
+                "value": "It’s more difficult for you to adapt:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "к заведенному порядку"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "to routine"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "к постоянным изменениям"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "to constant change"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 39,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "На вечеринках тебе нравится:"
+            },
+            {
+                "lang": "en",
+                "value": "At parties you like:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "руководить событиями"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "lead events"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "не мешать другим развлекаться, как они хотят"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "don't stop others from having fun as they want"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 40,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «осторожный - доверчивый» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the “cautious - gullible” pair do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "осторожный"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "cautious"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": " доверчивый"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "gullible"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 41,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Как ты чувствуешь себя, попав в незнакомую обстановку:"
+            },
+            {
+                "lang": "en",
+                "value": "How do you feel when you are in an unfamiliar environment:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "спокойно"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "calmly"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "тревожно"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "anxiously"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 42,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Высказываться, выражая интересы группы, для тебя:"
+            },
+            {
+                "lang": "en",
+                "value": "To speak out, expressing the interests of the group, for you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "легко и приятно"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "easy and nice"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "неприятная обязанность"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "unpleasant duty"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 43,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Ты предпочитаешь рыботать с руководителями, которые:"
+            },
+            {
+                "lang": "en",
+                "value": "You would prefer to work with a manager who:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "всегда добр"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "always kind"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "всегда справедлив"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "always fair"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 44,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Твоим другом легче стать тому, кто:"
+            },
+            {
+                "lang": "en",
+                "value": "Your friend is easier to become someone who:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "разделяет твои стандарты и точку зрения"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "shares your standards and point of view"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "является интересным человеком"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "is an interesting person"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 45,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «решительность - любопытство» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "Which word in the pair “decisiveness - curiosity” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "решительность"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "decisiveness"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "любопытство"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "curiosity"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 46,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Когда тебя прерывают, ты:"
+            },
+            {
+                "lang": "en",
+                "value": "When you are interrupted, you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "легко реагируете"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "easy to respond"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "легко раздражаетесь"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "easily annoyed"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 47,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Холодное отношение к тебе коллег:"
+            },
+            {
+                "lang": "en",
+                "value": "Cold attitude towards you colleagues:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "безразлично тебе"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "it doesn't matter to you"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "обижает тебя"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "offends you"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 48,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Ты чаще поступаешь:"
+            },
+            {
+                "lang": "en",
+                "value": "You do more often:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "как считаешь правильным"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "what do you think is right"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "как диктуют обстоятельства"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "as circumstances dictate"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 49,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Для тебя важнее:"
+            },
+            {
+                "lang": "en",
+                "value": "More important for you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "настоять на своем"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "insist"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "сохранить отношения"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "keep relationship"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 50,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «целое - детали» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “whole - details” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "целое"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "whole"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "детали"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "details"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 51,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Тебе привычнее больше заботиться о событиях:"
+            },
+            {
+                "lang": "en",
+                "value": "You are used to taking more care of events:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "сегодняшнего дня"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "today"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "которые не касаются текущего момента"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "which do not concern the current moment"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 52,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Какое слово в паре «понимать - управлять» тебе больше нравится по смыслу?"
+            },
+            {
+                "lang": "en",
+                "value": "What word in the pair “understand - manage” do you like more in meaning?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "понимать"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "understand"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "управлять"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "manage"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 53,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Тебя можно скорее назвать человеком, который:"
+            },
+            {
+                "lang": "en",
+                "value": "You can rather be called a person who:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "склонен ориентироваться на очевидные факты"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "inclined to focus on obvious facts"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "видит варианты, которые другие не замечают"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "sees options that others don't notice"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 54,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Можно ли сказать, что ты:"
+            },
+            {
+                "lang": "en",
+                "value": "Can you say that you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "принимаешь близко к сердцу эмоциональные проблемы"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "take emotional problems to heart"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "относишься к эмоциональным проблемам, как к помехе в решении задач"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "treat emotional problems as a hindrance in solving problems"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 55,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "В конце рабочего дня ты чаще:"
+            },
+            {
+                "lang": "en",
+                "value": "At the end of the day you are more likely to:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "забываешь о времени, увлекаясь решением задач"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "forget about time, carried away by solving problems"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "стремишься завершить какую-то часть и закончить работу вовремя"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "strive to complete some part and finish the work on time"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 56,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "В работе ты:"
+            },
+            {
+                "lang": "en",
+                "value": "In work you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "задаешь собственные стандарты, где это возможно"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "set your own standards where possible"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "больше интересуешься, как работу делают другие"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "more interested in how others do work"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 57,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Можно ли сказать, что ты иногда нахватываешь больше, чем можешь переварить или использовать?"
+            },
+            {
+                "lang": "en",
+                "value": "Can you say that you sometimes pick up more than you can digest or use?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "скорее да"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "rather yes"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "скорее нет"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "probably not"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 58,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "При выполнении рабочих задач ты:"
+            },
+            {
+                "lang": "en",
+                "value": "When performing work tasks, you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "предпочитаешь опираться на свой опыт и знания"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "prefer to rely on your experience and knowledge"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "каждый раз опираешься на новый подход, требующий новых знаний"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "each time you rely on a new approach that requires new knowledge"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 59,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "О тебе можно сказать, что ты человек, который:"
+            },
+            {
+                "lang": "en",
+                "value": "You can say about you that you are a person who:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "возбуждает энтузиазм"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "enthusiastic"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "обычно ровен и деловит"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "usually smooth and businesslike"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 60,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Когда ты учишься новому, ты:"
+            },
+            {
+                "lang": "en",
+                "value": "When you learn new things, you:"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "просишь больше подкреплять слова конкретными примерами"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "ask for more concrete examples"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "быстро «схватываешь» значения слов и символов"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "quickly grasp the meanings of words and characters"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 62,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Тебе нравится то, чем ты занимаешься на работе?"
+            },
+            {
+                "lang": "en",
+                "value": "Do you like what you do at work?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "да"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "yes"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "нет"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "no"
+                    }
+                ]
+            },
+            {
+                "position": 3,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "затрудняюсь ответить"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "find it difficult to answer"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "position": 63,
+        "text": [
+            {
+                "lang": "ru",
+                "value": "Твоя работа позволяет тебе реализовать свои лучшие качества и способности?"
+            },
+            {
+                "lang": "en",
+                "value": "Does your job allow you to realize your best qualities and abilities?"
+            }
+        ],
+        "answers": [
+            {
+                "position": 1,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "да"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "yes"
+                    }
+                ]
+            },
+            {
+                "position": 2,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "нет"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "no"
+                    }
+                ]
+            },
+            {
+                "position": 3,
+                "text": [
+                    {
+                        "lang": "ru",
+                        "value": "затрудняюсь ответить"
+                    },
+                    {
+                        "lang": "en",
+                        "value": "find it difficult to answer"
+                    }
+                ]
+            }
+        ]
+    }
+]

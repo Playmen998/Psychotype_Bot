@@ -1,0 +1,1 @@
+from info_psychotypes import psychotypes

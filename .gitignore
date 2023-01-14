@@ -1,0 +1,6 @@
+Psychotype_Test_Bot/.idea/
+Psychotype_Test_Bot/__pycache__/
+Psychotype_Test_Bot/BaseData/User_Answer.db
+Psychotype_Test_Bot/catboost_info
+Psychotype_Test_Bot/venv/
+Psychotype_Test_Bot/config.py
